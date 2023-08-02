@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Alexandr. Fullstack developer from Novosibirsk. Programming for the main work - architecture. And hobbies.
+I'm Alexandr. JS developer from Novosibirsk.
 
 ### Langauges
 
